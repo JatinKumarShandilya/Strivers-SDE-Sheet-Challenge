@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 
-// optimal solution => O(n*m) => O(n^2 approx) and SC => O(1)
+/* optimal solution => O(n*m) => O(n^2 approx) and SC => O(1) */
 
 void setZeros(vector<vector<int>> &matrix)
 {
