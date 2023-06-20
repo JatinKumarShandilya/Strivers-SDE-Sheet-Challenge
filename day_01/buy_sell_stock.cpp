@@ -1,4 +1,5 @@
 #include <bits/stdc++.h> 
+using namespace std;
 int maximumProfit(vector<int> &prices){
     int n = prices.size();
     int mini = prices[0]; 
